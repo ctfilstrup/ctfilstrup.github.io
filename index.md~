@@ -1,12 +1,9 @@
 ---
-layout: article
-excerpt:
-tags: []
-image:
+layout: page
+permalink: /
+title: 
+image: 
   feature: cyano.jpg
-  teaser:
-  thumb:
-share: false
 ---
 
 <div class="tiles">

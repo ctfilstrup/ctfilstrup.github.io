@@ -1,6 +1,26 @@
 # Site navigation links
 
-- title:
-  url:
+- title: About
+  url: /about/
+  excerpt:
+  image:
+
+- title: Research
+  url: /research/
+  excerpt:
+  image:
+
+- title: Publications
+  url: /publications/
+  excerpt:
+  image:
+
+- title: Teaching
+  url: /teaching/
+  excerpt:
+  image:
+
+- title: Contact us
+  url: /contact/
   excerpt:
   image:

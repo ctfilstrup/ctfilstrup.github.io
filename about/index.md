@@ -7,7 +7,7 @@ excerpt:
 tags: []
 image:
   feature:
-  teaser:
+  teaser: mugshot.jpg
   thumb:
 share: false
 ---

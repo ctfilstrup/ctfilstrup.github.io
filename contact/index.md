@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Contact me
+title: Contact us
 date:
 modified:
 excerpt:
@@ -12,7 +12,7 @@ image:
 share: false
 ---
 
-<p>Christopher T. Filstrup  
+<p>Christopher T. Filstrup<br />
 Ecology, Evolution, and Organismal Biology Department<br />
 Iowa State University<br />
 251 Bessey Hall<br />

@@ -3,7 +3,7 @@ layout: article
 excerpt:
 tags: []
 image:
-  feature: cyano.jpg
+  feature: cyano_crop.jpg
   teaser:
   thumb:
 share: false

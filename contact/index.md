@@ -13,9 +13,9 @@ share: false
 ---
 
 Christopher T. Filstrup  
-Ecology, Evolution, and Organismal Biology Department  
-Iowa State University  
-251 Bessey Hall  
-Ames, IA 50011-1020  
-Phone: 515-520-3220  
+Ecology, Evolution, and Organismal Biology Department<br />
+Iowa State University<br />
+251 Bessey Hall<br />
+Ames, IA 50011-1020<br />
+Phone: 515-520-3220<br />
 Email: filstrup@iastate.edu

@@ -6,8 +6,8 @@ modified:
 excerpt:
 tags: []
 image:
-  feature:
-  teaser: mugshot.jpg
+  feature: mugshot.jpg
+  teaser:
   thumb:
 share: false
 ---
